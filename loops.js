@@ -18,6 +18,6 @@ function whileLoop(n) {
 
 doWhileLoop(array) {
   do {
-    
+    array.pop
   } while (maybeTrue())
 }

@@ -16,3 +16,8 @@ function whileLoop(n) {
   return "done"
 }
 
+doWhileLoop(array) {
+  do {
+    
+  } while (maybeTrue())
+}
